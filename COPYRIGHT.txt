@@ -1,0 +1,69 @@
+====================================
+FS22 - FIELD EXPORTER MOD v1.0.0.0
+====================================
+
+-------------------- ENGLISH (EN) --------------------
+COPYRIGHT NOTICE:
+Copyright © 2025 Sippler. All rights reserved.
+This mod may not be redistributed, modified, or shared without permission.
+For personal use only.
+
+-------------------- DEUTSCH (DE) --------------------
+URHEBERRECHTSHINWEIS:
+Copyright © 2025 Sippler. Alle Rechte vorbehalten.
+Dieser Mod darf ohne Genehmigung nicht weitergegeben, modifiziert oder geteilt werden.
+Nur für den persönlichen Gebrauch.
+
+-------------------- FRANÇAIS (FR) --------------------
+AVIS DE DROIT D'AUTEUR:
+Copyright © 2025 Sippler. Tous droits réservés.
+Ce mod ne peut pas être redistribué, modifié ou partagé sans autorisation.
+Pour usage personnel uniquement.
+
+-------------------- ESPAÑOL (ES) --------------------
+AVISO DE DERECHOS DE AUTOR:
+Copyright © 2025 Sippler. Todos los derechos reservados.
+Este mod no puede ser redistribuido, modificado o compartido sin permiso.
+Solo para uso personal.
+
+-------------------- ITALIANO (IT) --------------------
+AVVISO DI COPYRIGHT:
+Copyright © 2025 Sippler. Tutti i diritti riservati.
+Questo mod non può essere ridistribuito, modificato o condiviso senza autorizzazione.
+Solo per uso personale.
+
+-------------------- POLSKI (PL) --------------------
+INFORMACJA O PRAWACH AUTORSKICH:
+Copyright © 2025 Sippler. Wszelkie prawa zastrzeżone.
+Ten mod nie może być rozpowszechniany, modyfikowany ani udostępniany bez zezwolenia.
+Tylko do użytku osobistego.
+
+-------------------- РУССКИЙ (RU) --------------------
+УВЕДОМЛЕНИЕ ОБ АВТОРСКИХ ПРАВАХ:
+Copyright © 2025 Sippler. Все права защищены.
+Этот мод не может быть распространен, изменен или передан без разрешения.
+Только для личного использования.
+
+-------------------- ČESKY (CZ) --------------------
+UPOZORNĚNÍ NA AUTORSKÁ PRÁVA:
+Copyright © 2025 Sippler. Všechna práva vyhrazena.
+Tento mod nesmí být bez povolení dále šířen, upravován nebo sdílen.
+Pouze pro osobní použití.
+
+-------------------- PORTUGUÊS (BR) --------------------
+AVISO DE DIREITOS AUTORAIS:
+Copyright © 2025 Sippler. Todos os direitos reservados.
+Este mod não pode ser redistribuído, modificado ou compartilhado sem permissão.
+Apenas para uso pessoal.
+
+-------------------- SVENSKA (SV) --------------------
+UPPHOVSRÄTTSMEDDELANDE:
+Copyright © 2025 Sippler. Alla rättigheter förbehållna.
+Denna mod får inte vidaredistribueras, modifieras eller delas utan tillstånd.
+Endast för personligt bruk.
+
+-------------------- ROMÂNĂ (RO) --------------------
+NOTIFICARE PRIVIND DREPTURILE DE AUTOR:
+Copyright © 2025 Sippler. Toate drepturile rezervate.
+Acest mod nu poate fi redistribuit, modificat sau partajat fără permisiune.
+Doar pentru uz personal.

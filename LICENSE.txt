@@ -1,0 +1,342 @@
+====================================
+FS22 - FIELD EXPORTER MOD v1.0.0.0
+====================================
+
+-------------------- ENGLISH (EN) --------------------
+
+COPYRIGHT NOTICE AND LICENSE AGREEMENT
+
+This Field Exporter Mod ("MOD") is protected by copyright laws and international copyright treaties,
+as well as other intellectual property laws and treaties.
+
+1. COPYRIGHT
+   All rights to this MOD are exclusively owned by Sippler ("AUTHOR").
+   Copyright © 2025 Sippler. All rights reserved.
+
+2. LICENSE RESTRICTIONS
+   (a) This MOD may NOT be redistributed, rehosted, or shared through any websites, platforms,
+       or channels other than through the original download link provided by the AUTHOR.
+   
+   (b) You may NOT modify, decompile, disassemble, reverse engineer, or create derivative works
+       based on this MOD.
+   
+   (c) You may NOT sell, rent, lease, sublicense, or otherwise transfer rights to this MOD.
+
+3. PERMITTED USE
+   (a) You may use this MOD for personal, non-commercial purposes only.
+   
+   (b) You may only download this MOD from the original link provided by the AUTHOR.
+
+By using this MOD, you acknowledge that you have read and understand this agreement and agree
+to be bound by its terms and conditions.
+
+For questions regarding this license, contact Sippler directly.
+
+-------------------- DEUTSCH (DE) --------------------
+
+URHEBERRECHTSHINWEIS UND LIZENZVEREINBARUNG
+
+Dieser Field Exporter Mod ("MOD") ist durch Urheberrechtsgesetze und internationale Urheberrechtsverträge
+sowie andere Gesetze und Verträge über geistiges Eigentum geschützt.
+
+1. URHEBERRECHT
+   Alle Rechte an diesem MOD sind ausschließlich Eigentum von Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Alle Rechte vorbehalten.
+
+2. LIZENZBESCHRÄNKUNGEN
+   (a) Dieser MOD darf NICHT über andere Websites, Plattformen oder Kanäle weitergegeben, erneut
+       gehostet oder geteilt werden, außer über den vom AUTOR bereitgestellten Original-Download-Link.
+   
+   (b) Sie dürfen diesen MOD NICHT modifizieren, dekompilieren, disassemblieren, zurückentwickeln
+       oder abgeleitete Werke davon erstellen.
+   
+   (c) Sie dürfen diesen MOD NICHT verkaufen, vermieten, verpachten, unterlizenzieren oder
+       anderweitig Rechte daran übertragen.
+
+3. ERLAUBTE NUTZUNG
+   (a) Sie dürfen diesen MOD nur für persönliche, nicht-kommerzielle Zwecke verwenden.
+   
+   (b) Sie dürfen diesen MOD nur von dem vom AUTOR bereitgestellten Original-Link herunterladen.
+
+Durch die Nutzung dieses MODs bestätigen Sie, dass Sie diese Vereinbarung gelesen haben, verstehen
+und mit deren Bedingungen und Konditionen einverstanden sind.
+
+Bei Fragen zu dieser Lizenz wenden Sie sich direkt an Sippler.
+
+-------------------- FRANÇAIS (FR) --------------------
+
+AVIS DE DROIT D'AUTEUR ET ACCORD DE LICENCE
+
+Ce mod Field Exporter ("MOD") est protégé par les lois sur le droit d'auteur et les traités internationaux
+sur le droit d'auteur, ainsi que par d'autres lois et traités sur la propriété intellectuelle.
+
+1. DROIT D'AUTEUR
+   Tous les droits sur ce MOD sont la propriété exclusive de Sippler ("AUTEUR").
+   Copyright © 2025 Sippler. Tous droits réservés.
+
+2. RESTRICTIONS DE LICENCE
+   (a) Ce MOD ne peut PAS être redistribué, réhébergé ou partagé via des sites Web, plateformes
+       ou canaux autres que le lien de téléchargement original fourni par l'AUTEUR.
+   
+   (b) Vous ne pouvez PAS modifier, décompiler, désassembler, faire de l'ingénierie inverse
+       ou créer des œuvres dérivées basées sur ce MOD.
+   
+   (c) Vous ne pouvez PAS vendre, louer, donner à bail, sous-licencier ou transférer de quelque
+       manière que ce soit les droits sur ce MOD.
+
+3. UTILISATION AUTORISÉE
+   (a) Vous pouvez utiliser ce MOD uniquement à des fins personnelles et non commerciales.
+   
+   (b) Vous ne pouvez télécharger ce MOD que depuis le lien original fourni par l'AUTEUR.
+
+En utilisant ce MOD, vous reconnaissez avoir lu et compris cet accord et acceptez d'être lié
+par ses termes et conditions.
+
+Pour toute question concernant cette licence, contactez directement Sippler.
+
+-------------------- ESPAÑOL (ES) --------------------
+
+AVISO DE DERECHOS DE AUTOR Y ACUERDO DE LICENCIA
+
+Este Mod Field Exporter ("MOD") está protegido por leyes de derechos de autor y tratados internacionales
+de derechos de autor, así como por otras leyes y tratados de propiedad intelectual.
+
+1. DERECHOS DE AUTOR
+   Todos los derechos de este MOD son propiedad exclusiva de Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Todos los derechos reservados.
+
+2. RESTRICCIONES DE LICENCIA
+   (a) Este MOD NO puede ser redistribuido, realojado o compartido a través de sitios web,
+       plataformas o canales que no sean el enlace de descarga original proporcionado por el AUTOR.
+   
+   (b) NO puede modificar, descompilar, desensamblar, realizar ingeniería inversa o crear
+       obras derivadas basadas en este MOD.
+   
+   (c) NO puede vender, alquilar, arrendar, sublicenciar o transferir de otro modo los derechos
+       sobre este MOD.
+
+3. USO PERMITIDO
+   (a) Puede utilizar este MOD únicamente para fines personales y no comerciales.
+   
+   (b) Solo puede descargar este MOD desde el enlace original proporcionado por el AUTOR.
+
+Al utilizar este MOD, reconoce que ha leído y comprende este acuerdo y acepta estar sujeto a
+sus términos y condiciones.
+
+Para preguntas sobre esta licencia, contacte directamente con Sippler.
+
+-------------------- ITALIANO (IT) --------------------
+
+AVVISO DI COPYRIGHT E ACCORDO DI LICENZA
+
+Questo Mod Field Exporter ("MOD") è protetto da leggi sul copyright e trattati internazionali sul copyright,
+nonché da altre leggi e trattati sulla proprietà intellettuale.
+
+1. COPYRIGHT
+   Tutti i diritti su questo MOD sono di proprietà esclusiva di Sippler ("AUTORE").
+   Copyright © 2025 Sippler. Tutti i diritti riservati.
+
+2. RESTRIZIONI DELLA LICENZA
+   (a) Questo MOD NON può essere ridistribuito, riospitato o condiviso attraverso siti web,
+       piattaforme o canali diversi dal link di download originale fornito dall'AUTORE.
+   
+   (b) NON è possibile modificare, decompilare, disassemblare, decodificare o creare opere
+       derivate basate su questo MOD.
+   
+   (c) NON è possibile vendere, noleggiare, affittare, concedere in sublicenza o altrimenti
+       trasferire i diritti su questo MOD.
+
+3. USO CONSENTITO
+   (a) È possibile utilizzare questo MOD solo per scopi personali e non commerciali.
+   
+   (b) È possibile scaricare questo MOD solo dal link originale fornito dall'AUTORE.
+
+Utilizzando questo MOD, riconosci di aver letto e compreso questo accordo e accetti di essere
+vincolato dai suoi termini e condizioni.
+
+Per domande relative a questa licenza, contattare direttamente Sippler.
+
+-------------------- POLSKI (PL) --------------------
+
+INFORMACJA O PRAWACH AUTORSKICH I UMOWA LICENCYJNA
+
+Ten mod Field Exporter ("MOD") jest chroniony prawami autorskimi i międzynarodowymi traktatami o prawach
+autorskich, a także innymi prawami i traktatami o własności intelektualnej.
+
+1. PRAWA AUTORSKIE
+   Wszystkie prawa do tego MOD-a są wyłączną własnością Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Wszelkie prawa zastrzeżone.
+
+2. OGRANICZENIA LICENCJI
+   (a) Ten MOD NIE może być rozpowszechniany, ponownie hostowany ani udostępniany za pośrednictwem
+       stron internetowych, platform lub kanałów innych niż oryginalny link do pobrania udostępniony przez AUTORA.
+   
+   (b) NIE możesz modyfikować, dekompilować, dezasemblować, odtwarzać kodu źródłowego ani tworzyć
+       utworów pochodnych na podstawie tego MOD-a.
+   
+   (c) NIE możesz sprzedawać, wynajmować, dzierżawić, udzielać sublicencji ani w inny sposób
+       przenosić praw do tego MOD-a.
+
+3. DOZWOLONE UŻYCIE
+   (a) Możesz używać tego MOD-a wyłącznie do celów osobistych i niekomercyjnych.
+   
+   (b) Możesz pobrać ten MOD wyłącznie z oryginalnego linku udostępnionego przez AUTORA.
+
+Korzystając z tego MOD-a, potwierdzasz, że przeczytałeś i rozumiesz tę umowę oraz zgadzasz się
+przestrzegać jej warunków.
+
+W przypadku pytań dotyczących tej licencji, skontaktuj się bezpośrednio z Sippler.
+
+-------------------- ČESKY (CZ) --------------------
+
+UPOZORNĚNÍ NA AUTORSKÁ PRÁVA A LICENČNÍ SMLOUVA
+
+Tento mod Field Exporter ("MOD") je chráněn autorskými právy a mezinárodními smlouvami o autorských právech,
+stejně jako dalšími zákony a smlouvami o duševním vlastnictví.
+
+1. AUTORSKÁ PRÁVA
+   Veškerá práva k tomuto MODu výhradně vlastní Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Všechna práva vyhrazena.
+
+2. LICENČNÍ OMEZENÍ
+   (a) Tento MOD NESMÍ být redistribuován, znovu hostován nebo sdílen prostřednictvím jakýchkoli
+       webových stránek, platforem nebo kanálů jiných než prostřednictvím původního odkazu ke stažení poskytnutého AUTOREM.
+   
+   (b) NESMÍTE upravovat, dekompilovat, rozebírat, zpětně analyzovat nebo vytvářet odvozená díla
+       založená na tomto MODu.
+   
+   (c) NESMÍTE prodávat, pronajímat, zapůjčovat, sublicencovat nebo jinak převádět práva k tomuto MODu.
+
+3. POVOLENÉ POUŽITÍ
+   (a) Tento MOD můžete používat pouze pro osobní, nekomerční účely.
+   
+   (b) Tento MOD můžete stáhnout pouze z původního odkazu poskytnutého AUTOREM.
+
+Používáním tohoto MODu potvrzujete, že jste si přečetli a rozumíte této smlouvě a souhlasíte
+s tím, že budete vázáni jejími podmínkami.
+
+V případě dotazů týkajících se této licence kontaktujte přímo Sippler.
+
+-------------------- PORTUGUÊS (BR) --------------------
+
+AVISO DE DIREITOS AUTORAIS E ACORDO DE LICENÇA
+
+Este Mod Field Exporter ("MOD") é protegido por leis de direitos autorais e tratados internacionais
+de direitos autorais, bem como por outras leis e tratados de propriedade intelectual.
+
+1. DIREITOS AUTORAIS
+   Todos os direitos deste MOD são de propriedade exclusiva de Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Todos os direitos reservados.
+
+2. RESTRIÇÕES DE LICENÇA
+   (a) Este MOD NÃO pode ser redistribuído, recodificado ou compartilhado através de quaisquer
+       sites, plataformas ou canais que não sejam através do link de download original fornecido pelo AUTOR.
+   
+   (b) Você NÃO pode modificar, descompilar, desmontar, fazer engenharia reversa ou criar trabalhos
+       derivados baseados neste MOD.
+   
+   (c) Você NÃO pode vender, alugar, arrendar, sublicenciar ou de outra forma transferir direitos
+       para este MOD.
+
+3. USO PERMITIDO
+   (a) Você pode usar este MOD apenas para fins pessoais e não comerciais.
+   
+   (b) Você só pode baixar este MOD a partir do link original fornecido pelo AUTOR.
+
+Ao usar este MOD, você reconhece que leu e entendeu este acordo e concorda em estar vinculado
+aos seus termos e condições.
+
+Para perguntas sobre esta licença, entre em contato diretamente com Sippler.
+
+-------------------- SVENSKA (SV) --------------------
+
+UPPHOVSRÄTTSMEDDELANDE OCH LICENSAVTAL
+
+Denna Field Exporter Mod ("MOD") skyddas av upphovsrättslagar och internationella upphovsrättsavtal,
+samt andra lagar och avtal om immateriell egendom.
+
+1. UPPHOVSRÄTT
+   Alla rättigheter till denna MOD ägs exklusivt av Sippler ("FÖRFATTAREN").
+   Copyright © 2025 Sippler. Alla rättigheter förbehållna.
+
+2. LICENSBEGRÄNSNINGAR
+   (a) Denna MOD får INTE vidaredistribueras, återvärdera eller delas via webbplatser, plattformar
+       eller kanaler andra än via den ursprungliga nedladdningslänken som tillhandahålls av FÖRFATTAREN.
+   
+   (b) Du får INTE modifiera, dekompilera, demontera, bakåtkompilera eller skapa derivatverk
+       baserade på denna MOD.
+   
+   (c) Du får INTE sälja, hyra ut, leasa, underlicensiera eller på annat sätt överföra rättigheter
+       till denna MOD.
+
+3. TILLÅTEN ANVÄNDNING
+   (a) Du får använda denna MOD endast för personligt, icke-kommersiellt bruk.
+   
+   (b) Du får endast ladda ner denna MOD från den ursprungliga länken som tillhandahålls av FÖRFATTAREN.
+
+Genom att använda denna MOD bekräftar du att du har läst och förstått detta avtal och samtycker
+till att vara bunden av dess villkor.
+
+För frågor om denna licens, kontakta Sippler direkt.
+
+-------------------- РУССКИЙ (RU) --------------------
+
+УВЕДОМЛЕНИЕ ОБ АВТОРСКИХ ПРАВАХ И ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+
+Этот мод Field Exporter ("МОД") защищен законами об авторском праве и международными договорами
+об авторском праве, а также другими законами и договорами об интеллектуальной собственности.
+
+1. АВТОРСКОЕ ПРАВО
+   Все права на этот МОД принадлежат исключительно Sippler ("АВТОР").
+   Copyright © 2025 Sippler. Все права защищены.
+
+2. ОГРАНИЧЕНИЯ ЛИЦЕНЗИИ
+   (а) Этот МОД НЕЛЬЗЯ распространять, переразмещать или делиться через какие-либо веб-сайты,
+       платформы или каналы, кроме как через оригинальную ссылку для скачивания, предоставленную АВТОРОМ.
+   
+   (б) Вы НЕ МОЖЕТЕ изменять, декомпилировать, дизассемблировать, осуществлять обратное проектирование
+       или создавать производные работы на основе этого МОДА.
+   
+   (в) Вы НЕ МОЖЕТЕ продавать, сдавать в аренду, сдавать в прокат, сублицензировать или иным образом
+       передавать права на этот МОД.
+
+3. РАЗРЕШЕННОЕ ИСПОЛЬЗОВАНИЕ
+   (а) Вы можете использовать этот МОД только в личных, некоммерческих целях.
+   
+   (б) Вы можете скачать этот МОД только с оригинальной ссылки, предоставленной АВТОРОМ.
+
+Используя этот МОД, вы подтверждаете, что прочитали и понимаете это соглашение и соглашаетесь
+соблюдать его условия.
+
+По вопросам относительно этой лицензии обращайтесь непосредственно к Sippler.
+
+-------------------- ROMÂNĂ (RO) --------------------
+
+NOTIFICARE PRIVIND DREPTURILE DE AUTOR ȘI ACORDUL DE LICENȚĂ
+
+Acest Mod Field Exporter ("MOD") este protejat de legile drepturilor de autor și de tratatele internaționale
+privind drepturile de autor, precum și de alte legi și tratate privind proprietatea intelectuală.
+
+1. DREPTURI DE AUTOR
+   Toate drepturile asupra acestui MOD aparțin exclusiv lui Sippler ("AUTOR").
+   Copyright © 2025 Sippler. Toate drepturile rezervate.
+
+2. RESTRICȚII DE LICENȚĂ
+   (a) Acest MOD NU poate fi redistribuit, regăzduit sau partajat prin intermediul oricăror site-uri web,
+       platforme sau canale, altele decât prin intermediul link-ului original de descărcare furnizat de AUTOR.
+   
+   (b) NU aveți voie să modificați, decompilați, dezasamblați, să faceți inginerie inversă sau să creați
+       lucrări derivate bazate pe acest MOD.
+   
+   (c) NU aveți voie să vindeți, să închiriați, să dați în leasing, să sublicențiați sau să transferați
+       în alt mod drepturile asupra acestui MOD.
+
+3. UTILIZARE PERMISĂ
+   (a) Puteți utiliza acest MOD numai în scopuri personale, necomerciale.
+   
+   (b) Puteți descărca acest MOD numai de la link-ul original furnizat de AUTOR.
+
+Prin utilizarea acestui MOD, recunoașteți că ați citit și înțelegeți acest acord și sunteți de acord
+să respectați termenii și condițiile sale.
+
+Pentru întrebări referitoare la această licență, contactați-l direct pe Sippler.
